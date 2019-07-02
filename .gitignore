@@ -3,6 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+# Saymore
+*.wav
+*.WAV
+*.mp3
+*.MP3
+
 # User-specific files
 *.suo
 *.user
