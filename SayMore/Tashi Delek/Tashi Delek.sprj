@@ -4,7 +4,7 @@
   <transcriptionFont>Segoe UI, 18, Regular</transcriptionFont>
   <freeTranslationFont />
   <AutoSegmentersettings minSegmentLength="0" maxSegmentLength="0" preferrerdPauseLength="0" optimumLengthClampingFactor="0" />
-  <Title>1st</Title>
+  <Title>Tashi Delek</Title>
   <FundingProjectTitle />
   <ProjectDescription />
   <VernacularISO3CodeAndName />
@@ -17,5 +17,5 @@
   <DateAvailable />
   <RightsHolder />
   <Depositor />
-  <IMDIOutputDirectory />
+  <IMDIOutputDirectory>C:\Users\HP\Documents\SayMore\IMDI Packages</IMDIOutputDirectory>
 </Project>

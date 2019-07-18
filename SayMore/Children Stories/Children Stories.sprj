@@ -13,9 +13,9 @@
   <Country>Unspecified</Country>
   <Continent>Unspecified</Continent>
   <ContactPerson />
-  <AccessProtocol />
+  <AccessProtocol>None</AccessProtocol>
   <DateAvailable />
   <RightsHolder />
   <Depositor />
-  <IMDIOutputDirectory />
+  <IMDIOutputDirectory>C:\Users\HP\Documents\SayMore\IMDI Packages</IMDIOutputDirectory>
 </Project>
