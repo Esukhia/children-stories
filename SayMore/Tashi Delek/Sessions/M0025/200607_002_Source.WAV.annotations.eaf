@@ -710,17 +710,17 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90699" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
-        <ANNOTATION_VALUE>སྦྲུལ་གཅིག་བསླེབ་རེད་ད་ར། གཉིད་ཁུག་གི་ཡོད་རེད་ད། ཨ་ནས་ཁོ་བྲོས་འགྲོ་རེད་ད་ར། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>སྦྲུལ་གཅིག་བསླེབ་རེད་ད་ར། གཉིད་ཁུག་གི་ཡོད་རེད་ད། ༼ཨ་ནས་༽ཁོ་བྲོས་འགྲོ་རེད་ད་ར། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90701" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
-        <ANNOTATION_VALUE>སྦྲུལ་དེ་མར་ཟག་ར། ཨ་ནས་ Baby དེ་མར་ཉལ་བསྡད་ཡོད་རེད་ད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>སྦྲུལ་དེ་མར་ཟག་ར། ༼ཨ་ནས་༽ Baby དེ་མར་ཉལ་བསྡད་ཡོད་རེད་ད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90703" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
-        <ANNOTATION_VALUE>ནང་ལ་ཨ་མ་མཉམ་དུ་བསྡད་བསྡད་ཡོད་རེད། ཨ་ནས་རྫོགས་རེད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ནང་ལ་ཨ་མ་མཉམ་དུ་བསྡད་བསྡད་ཡོད་རེད། ༼ཨ་ནས་༽རྫོགས་རེད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -745,7 +745,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90713" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
-        <ANNOTATION_VALUE>ཨ་ནས་ཁོང་ཚོ་གཉིས་སྐྱིད་པོ་བཏང་འགྲོ་རེད་ད་ར།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས་༽ཁོང་ཚོ་གཉིས་སྐྱིད་པོ་བཏང་འགྲོ་རེད་ད་ར།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -755,12 +755,12 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90717" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
-        <ANNOTATION_VALUE>ཨ་ནས་ར། ཁོང་ཚོ་ར་མཉམ་དུ་སོ་རྒྱག་ག་ཡོང་རེད་ད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས་༽ར། ཁོང་ཚོ་ར་མཉམ་དུ་སོ་རྒྱག་ག་ཡོང་རེད་ད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90719" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
-        <ANNOTATION_VALUE>ཨ་ནས་baby ཟ་འགྲོའོ་བྱས་རེད་ད། དེ་ནས་baby ཟ་རེད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས་༽baby ཟ་འགྲོའོ་བྱས་རེད་ད། དེ་ནས་baby ཟ་རེད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1400,7 +1400,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90975" TIME_SLOT_REF1="ts339" TIME_SLOT_REF2="ts340">
-        <ANNOTATION_VALUE>སླེབས་འགྲོ་གི་རེད་བ། ཨ་ནས་</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>སླེབས་འགྲོ་གི་རེད་བ། ༼ཨ་ནས་༽</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
