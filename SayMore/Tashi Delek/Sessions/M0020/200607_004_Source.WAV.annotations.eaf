@@ -212,7 +212,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10763" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
-        <ANNOTATION_VALUE>༼ཨ་ནས་༽དགོང་དག་ཞོགས་ཀས་ཡོད་བ་མར་ནང་ལ། ༼ཨ་ནས་༽དགོང་དག་ཞོགས་ཀས་གདོང་པ་བཀྲུ། སོ་བཀྲུ།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས་༽དགོང་དག་ཞོགས་ཀས་ཡོད་(བ་)མར་ནང་ལ། ༼ཨ་ནས་༽དགོང་དག་ཞོགས་ཀས་གདོང་པ་བཀྲུ། སོ་བཀྲུ།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -252,7 +252,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10779" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
-        <ANNOTATION_VALUE>ཙི་ཙི་མཉམ་དུ་ཡོད་བ་རྩི་རྩི་མཉམ་དུ་༼ཨ་ནས་༽</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཙི་ཙི་མཉམ་དུ་ཡོད་(བ་)རྩི་རྩི་མཉམ་དུ་༼ཨ་ནས་༽</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -322,7 +322,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10807" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
-        <ANNOTATION_VALUE>ཡོད་བ་བྱིའི་མཉམ་དུ་ཡོད་བ།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཡོད་(བ་)བྱིའི་མཉམ་དུ་ཡོད་བ།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -377,7 +377,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10829" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
-        <ANNOTATION_VALUE>ང་སྤྲད་ད། ཡོད་བ་སྔན་མ་སྔན་མ་ཡོད་བ།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ང་སྤྲད་ད། ཡོད་(བ་)སྔན་མ་སྔན་མ་ཡོད་བ།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -387,7 +387,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10833" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
-        <ANNOTATION_VALUE>བ་ཕྱུག་ཡོད་བ་འགྲོ་བསྡད་རེད་ད། ཞི་མི་གཅིག་ང་མཐོང་སོང་ད་ང་།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>བ་ཕྱུག་ཡོད་(བ་)འགྲོ་བསྡད་རེད་ད། ཞི་མི་གཅིག་ང་མཐོང་སོང་ད་ང་།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
