@@ -466,7 +466,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61579" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
-        <ANNOTATION_VALUE>དོམ་གཅིག་ཡོད་མ་རེད་ད། ཁྱི་གཅིག་ཡོད་རེད་ད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>དོམ་གཅིག་ཡོད་མ་རེད་(ད)།ཁྱི་གཅིག་ཡོད་རེད་ད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -476,22 +476,22 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61583" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
-        <ANNOTATION_VALUE>༼ཨ་ནས་༽ར། ཁོང་ཚོ་རྩེད་མོ་རྩེ་དུསར་ཁོང་གཉིས་ཨ་ཕ་ལགས་དེ་ཡོད་མ་རེད་ད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས་༽ར། ཁོང་ཚོ་རྩེད་མོ་རྩེ་དུསར་ཁོང་གཉིས་ཨ་ཕ་ལགས་དེ་ཡོད་མ་རེད་(ད)།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61585" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
-        <ANNOTATION_VALUE>ཁོང་གཉིས་གཅིག་པོ་ཡོད་རེད་ད། ཨ་ཕ་འགྲོ་རེད་ད། ཨ་ཕ་ལས་ཀ་བྱེད་གི་ཡོད་རེད་ད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཁོང་གཉིས་གཅིག་པོ་ཡོད་རེད་(ད)།ཨ་ཕ་འགྲོ་རེད་(ད)།ཨ་ཕ་ལས་ཀ་བྱེད་གི་ཡོད་རེད་(ད)།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61587" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
-        <ANNOTATION_VALUE>ཨ་མ་ལགས་གིས་ལས་ཀ་བྱེད་གི་ཡོད་རེད་ད། ༼ཨ་ནས་༽ཁོང་གཉིས་གཅིག་པོ་རེད་ད། ཁྱི་གཅིག་ཡོད་མ་རེད་ད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཨ་མ་ལགས་གིས་ལས་ཀ་བྱེད་གི་ཡོད་རེད་(ད)།༼ཨ་ནས་༽ཁོང་གཉིས་གཅིག་པོ་རེད་(ད)།ཁྱི་གཅིག་ཡོད་མ་རེད་ད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61589" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
-        <ANNOTATION_VALUE>ཁྱི་་་དེའི་ནང་རྩྭ་ནང་ལ་སྦྲུལ་གཅིག་ཡོད་རེད་ད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཁྱི་་་དེའི་ནང་རྩྭ་ནང་ལ་སྦྲུལ་གཅིག་ཡོད་རེད་(ད)།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -506,12 +506,12 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61595" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
-        <ANNOTATION_VALUE>དོམ་གཅིག་དེ་འདྲས་བསྡད་ཡོད་རེད་ད། ཨ་ནས། དང་པོ་སྤུ་གུ་གཉིས་ཡོད་རེད་ད་རྒན་ལགས་ལ། རྒན་ལགས་གཅིག་ཡོད་རེད་ད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>དོམ་གཅིག་དེ་འདྲས་བསྡད་ཡོད་རེད་(ད)།ཨ་ནས། དང་པོ་སྤུ་གུ་གཉིས་ཡོད་རེད་ད་རྒན་ལགས་ལ། རྒན་ལགས་གཅིག་ཡོད་རེད་(ད)།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61597" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
-        <ANNOTATION_VALUE>སྤུ་གུ་གཉིས་ཡོད་རེད་ད། ༼ཨ་ནས་༽དང་པོ་ཕྱུ་པ་གོན་འཇོག་གཅིག</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>སྤུ་གུ་གཉིས་ཡོད་རེད་(ད)།༼ཨ་ནས་༽དང་པོ་ཕྱུ་པ་གོན་འཇོག་གཅིག</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -541,12 +541,12 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61609" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
-        <ANNOTATION_VALUE>ཁྱི་གཅིག་ར་ཟ་བསྡད་ཡོད་རེད་ད། ཁོང་རང་གཅིག་པོ་རེད་ད། ཁོང་ཚོ་ཨ་ཕ་མཆོད་པ་བཤིག་གི་ཡོད་རེད་ད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཁྱི་གཅིག་ར་ཟ་བསྡད་ཡོད་རེད་(ད)།ཁོང་རང་གཅིག་པོ་རེད་(ད)།ཁོང་ཚོ་ཨ་ཕ་མཆོད་པ་བཤིག་གི་ཡོད་རེད་(ད)།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61611" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
-        <ANNOTATION_VALUE>ཨ་ཕ་གཅིག་ ཁོ་རང་གཅིག་པོ་རེད་ད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཨ་ཕ་གཅིག་ ཁོ་རང་གཅིག་པོ་རེད་(ད)།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -556,17 +556,17 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61615" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
-        <ANNOTATION_VALUE>༼ཨ་ནས་༽ར། དང་པོ་ནས་ར། བག་ལེབ་གཅིག་ཡོད་རེད་ད། བག་ལེབ་ཚོས་བསྡད་ཡོད་རེད་ད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས་༽ར། དང་པོ་ནས་ར། བག་ལེབ་གཅིག་ཡོད་རེད་(ད)།བག་ལེབ་ཚོས་བསྡད་ཡོད་རེད་(ད)།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61617" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
-        <ANNOTATION_VALUE>དེ་ཁྱིས་ར་བག་ལེབ་ཚོས་སོང་ལབ་རེད་ད། ཁྱི་ཡོད་མ་རེད་ད། ཨ་མ་ཡོད་མ་རེད་ད། ཅོག་ཅོག་ཡོད་མ་རེད་ད། ཨ་ཅག་ཡོད་མ་རེད་ད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>དེ་ཁྱིས་ར་བག་ལེབ་ཚོས་སོང་ལབ་རེད་(ད)།ཁྱི་ཡོད་མ་རེད་(ད)།ཨ་མ་ཡོད་མ་རེད་(ད)།ཅོག་ཅོག་ཡོད་མ་རེད་(ད)།ཨ་ཅག་ཡོད་མ་རེད་(ད)།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61619" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
-        <ANNOTATION_VALUE>ཁོ་རང་ར་གཅིག་པོ་འགྲོ གཅིག་ཡོད་རེད་ད། ཁོ་རང་བྱས་རེད་ད་ར་ཨ་ནས།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཁོ་རང་ར་གཅིག་པོ་འགྲོ གཅིག་ཡོད་རེད་(ད)།ཁོ་རང་བྱས་རེད་ད་ར་ཨ་ནས།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -626,7 +626,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61643" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
-        <ANNOTATION_VALUE>ད་དུང་གཅིག་ཡོད་རེད། དེ་རེད་ད། ད་ཡིན་ད། ད་དུང་གཅིག་ཡོད།  </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ད་དུང་གཅིག་ཡོད་རེད། དེ་རེད་(ད)།ད་ཡིན་ད། ད་དུང་གཅིག་ཡོད།  </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -651,17 +651,17 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61653" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
-        <ANNOTATION_VALUE>ཨ་ཕ་མ་རེད་ད་ཁོ། འོད་ཟེར་་ཨ་ཕ་དེ་རེད་ད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཨ་ཕ་མ་རེད་ད་ཁོ། འོད་ཟེར་་ཨ་ཕ་དེ་རེད་(ད)།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61655" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
-        <ANNOTATION_VALUE>ཀུན་བཟང་ཨ་ཕ་མ་རེད་ད་དེ། དང་པོ་དེ་ར་ཀུན་བཟང་རེད་ད། དང་པོ་ཨ་ཕ།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཀུན་བཟང་ཨ་ཕ་མ་རེད་ད་དེ། དང་པོ་དེ་ར་ཀུན་བཟང་རེད་(ད)།དང་པོ་ཨ་ཕ།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61657" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
-        <ANNOTATION_VALUE>དང་པོ་དེ་ར་"ཇག་མ"་དེ་ར་དང་པོ་རེད་ད། དང་པོ།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>དང་པོ་དེ་ར་"ཇག་མ"་དེ་ར་དང་པོ་རེད་(ད)།དང་པོ།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -736,7 +736,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61687" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
-        <ANNOTATION_VALUE>དེ་ཨ་ཕ་ཁ་ལ་ཡོད་རེད་ད། ང་ཚོ་མཚོན་ཁྲ་གཏང་ཚར་ཡིན་ད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>དེ་ཨ་ཕ་ཁ་ལ་ཡོད་རེད་(ད)།ང་ཚོ་མཚོན་ཁྲ་གཏང་ཚར་ཡིན་ད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -761,7 +761,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61697" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
-        <ANNOTATION_VALUE>དེ་བྱེད་ཡ་་མ་རེད་ད། དེ་དུག་སློག་བཀྲུ་ས་རེད། དེ། ལག་པ་བཀྲུ་ས་རེད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>དེ་བྱེད་ཡ་་མ་རེད་(ད)།དེ་དུག་སློག་བཀྲུ་ས་རེད། དེ། ལག་པ་བཀྲུ་ས་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -896,7 +896,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61751" TIME_SLOT_REF1="ts211" TIME_SLOT_REF2="ts212">
-        <ANNOTATION_VALUE>ཨ། གཏོང་ཆེད་དེ་མ་རེད་ད། "ཀ་ཊོན་"རེད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཨ། གཏོང་ཆེད་དེ་མ་རེད་(ད)།"ཀ་ཊོན་"རེད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>

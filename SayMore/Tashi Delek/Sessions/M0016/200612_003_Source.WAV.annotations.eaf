@@ -599,7 +599,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52553" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
-        <ANNOTATION_VALUE>དེ་ནང་ཡོད་རེད་ད། ཆུང་ཆུང་ནང་དེ་ཡོད་རེད་ད། བྱ་དེ་ཡོད་རེད་ད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>དེ་ནང་ཡོད་རེད་(ད)།ཆུང་ཆུང་ནང་དེ་ཡོད་རེད་(ད)།བྱ་དེ་ཡོད་རེད་ད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -869,7 +869,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52661" TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
-        <ANNOTATION_VALUE>ལྟ་ཨ། ད་ལྟ་དེ་གློག་སྤར་གི་རེད་ད། ལྟ་ཨ།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ལྟ་ཨ། ད་ལྟ་དེ་གློག་སྤར་གི་རེད་(ད)།ལྟ་ཨ།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -884,7 +884,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52667" TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
-        <ANNOTATION_VALUE>ད་དེ་ཁྱེད་རང་མི་བྱེད་ཡ་རེད་ད། དེ་ཁྱེད་རང་བྱེད་ཡ་རེད་ད་ལོ།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ད་དེ་ཁྱེད་རང་མི་བྱེད་ཡ་རེད་(ད)།དེ་ཁྱེད་རང་བྱེད་ཡ་རེད་ད་ལོ།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1129,7 +1129,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52765" TIME_SLOT_REF1="ts285" TIME_SLOT_REF2="ts286">
-        <ANNOTATION_VALUE>ང་ང་རའི་རྩེད་མོ་རྩེ་ཡ་རེད་ད། ཁྱེད་རང་རྩེད་མོ་རྩེ་ཡ་མ་རེད་ད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ང་ང་རའི་རྩེད་མོ་རྩེ་ཡ་རེད་(ད)།ཁྱེད་རང་རྩེད་མོ་རྩེ་ཡ་མ་རེད་ད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1144,7 +1144,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52771" TIME_SLOT_REF1="ts291" TIME_SLOT_REF2="ts292">
-        <ANNOTATION_VALUE>ང་ཁ་གྱི། ཨ་ཕ་མ་རེད་ད། ང་རའི་རྩེད་མོ་རྩེ་ཡ་རེད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ང་ཁ་གྱི། ཨ་ཕ་མ་རེད་(ད)།ང་རའི་རྩེད་མོ་རྩེ་ཡ་རེད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
