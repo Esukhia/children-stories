@@ -445,12 +445,12 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46353" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
-        <ANNOTATION_VALUE>པོ་པོ་གཅིག་དེ་གཞས་བཏང་ག་ཨི་འདྲས་སེ་ཨི་འདྲས་བྱེད་ཡ་གཅིག་འོ་དེ་པོ་པོ་གཞས་བཏང་བསྡད་འདུག </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>པོ་པོ་གཅིག་དེ་གཞས་བཏང་ག་༼ཨི་འདྲས་༽སེ་༼ཨི་འདྲས་༽བྱེད་ཡ་གཅིག་འོ་དེ་པོ་པོ་གཞས་བཏང་བསྡད་འདུག </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46355" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
-        <ANNOTATION_VALUE>ཨི་འདྲས་བྱེད་ཡ་དེ།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨི་འདྲས་༽བྱེད་ཡ་དེ།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -580,7 +580,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46407" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
-        <ANNOTATION_VALUE>ཨ་འདྲས་ཨི་འདྲས་བྱེད་ཡ་དེ།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཨ་འདྲས་༼ཨི་འདྲས་༽བྱེད་ཡ་དེ།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>

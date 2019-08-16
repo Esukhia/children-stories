@@ -358,7 +358,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10307" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
-        <ANNOTATION_VALUE>ཨི་འདྲས་བྱས་རེད། Doctor འགྲམ་ལ་ཁྲིད་རེད། Doctor </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨི་འདྲས་༽བྱས་རེད། Doctor འགྲམ་ལ་ཁྲིད་རེད། Doctor </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -448,7 +448,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10343" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
-        <ANNOTATION_VALUE>རྨ་བཟོས་ནས། ༼ཨ་ནས་༽ཁྱི་ཕྲུག་དེ་ར་ཨི་འདྲས་བྱས་རེད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>རྨ་བཟོས་ནས། ༼ཨ་ནས་༽ཁྱི་ཕྲུག་དེ་ར་༼ཨི་འདྲས་༽བྱས་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
