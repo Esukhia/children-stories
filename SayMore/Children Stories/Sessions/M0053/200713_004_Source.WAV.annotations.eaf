@@ -145,7 +145,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6373" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
-        <ANNOTATION_VALUE>དགོང་དག་དང་ཞོགས་ཀས་བཀྲུས་སོང་ང་། འདི་སོ་ད་འདི་སོ་</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>དགོང་དག་དང་༼ཞོགས་ཀས་༽བཀྲུས་སོང་ང་། འདི་སོ་ད་འདི་སོ་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -290,7 +290,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6431" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
-        <ANNOTATION_VALUE>ཁོང་ཚོ་ཁོང་ལ་ར། རྔན་པ་མང་པོ་ཟ་གི་ཡོད་རེད་བ་འོ་དེ་བྱས་ནས། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཁོང་ཚོ་ཁོང་ལ་ར། རྔན་པ་མང་པོ་ཟ་གི་ཡོད་རེད་(བ་)འོ་དེ་བྱས་ནས། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -320,12 +320,12 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6443" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
-        <ANNOTATION_VALUE>སྐྲ་རློན་པ་བཟོས་ར་ཁོང་ཚོ་ར། འདི་ལ་ཨ་མཆི་ལགས། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>སྐྲ་རློན་པ་བཟོས་ར་ཁོང་ཚོ་ར། འདི་ལ་ཨེམ་་ཆི་ལགས། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6445" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
-        <ANNOTATION_VALUE>ན་གི་ཡོད་༼ར༽། ན་ཚར་ར་༼ཨ་ནས་༽ར་ཨ་མཆི་ལགས་གིས་ར་གཅིག་བྱས་རེད། ༼ཨི་འདྲས་༽བྱས་རེད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ན་གི་ཡོད་༼ར༽། ན་ཚར་ར་༼ཨ་ནས་༽ར་ཨེམ་་ཆི་ལགས་གིས་ར་གཅིག་བྱས་རེད། ༼ཨི་འདྲས་༽བྱས་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -335,7 +335,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6449" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
-        <ANNOTATION_VALUE>ཨ་མཆི་ལགས་གིས་ག་རེ་བྱས་རེད་ལབ་ན། སྨན་བཅོས་བྱས་ནས། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཨེམ་་ཆི་ལགས་གིས་ག་རེ་བྱས་རེད་ལབ་ན། སྨན་བཅོས་བྱས་ནས། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>

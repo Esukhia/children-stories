@@ -469,7 +469,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62825" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
-        <ANNOTATION_VALUE>༼ཨ་ནས་༽happy birth day བཏང་དུས་བསམ་པ་སྐར་མ་འོད་ཆིམ་འོད་ཆིམ་བྱས་སོང་ང་༼ཨ་ནས་༽ང་།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས་༽happy birth day བཏང་༼དུས་བསམ་པ་༽སྐར་མ་འོད་ཆིམ་འོད་ཆིམ་བྱས་སོང་ང་༼ཨ་ནས་༽ང་།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -714,7 +714,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62923" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
-        <ANNOTATION_VALUE>ཨི་འདྲས། ༼ཨི་འདྲས་༽བྱས་ནས་འདི་དཔེ་ཁུག་ནང་ལ་བླུགས་ད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨི་འདྲས།༽ ༼ཨི་འདྲས་༽བྱས་ནས་འདི་དཔེ་ཁུག་ནང་ལ་བླུགས་ད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>

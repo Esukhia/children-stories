@@ -99,7 +99,7 @@
   <TIER DEFAULT_LOCALE="ipa-ext" LINGUISTIC_TYPE_REF="Transcription" TIER_ID="Transcription">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5041" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-        <ANNOTATION_VALUE>སྔན་མ་སྔན་མ་ལ་Mami གཅིག་ཡོད་རེད། Mami ཆུ་ནང་ལ་འགྲོ་རེད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼སྔན་མ་སྔན་མ་༽ལ་Mami གཅིག་ཡོད་རེད། Mami ཆུ་ནང་ལ་འགྲོ་རེད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
