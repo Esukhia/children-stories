@@ -290,12 +290,12 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22203" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
-        <ANNOTATION_VALUE>འོ་་་་འདི་སྦུགས་ལ། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>འོ་་་་འདི་སྦུག་ལ། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22205" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
-        <ANNOTATION_VALUE>འདི་སྦུགས་ལ་བླུགས་ནས་གཙང་མ་བཀྲུ་དགོས་འདུག </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>འདི་སྦུག་ལ་བླུགས་ནས་གཙང་མ་བཀྲུ་དགོས་འདུག </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -345,7 +345,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22225" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
-        <ANNOTATION_VALUE>འདི་སྦུགས་ལ་བྱེད་བསྡད་དགོས་རེད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>འདི་སྦུག་ལ་བྱེད་བསྡད་དགོས་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -415,7 +415,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22253" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
-        <ANNOTATION_VALUE>མཆིན་ཏོ་༼གཤུད་༽ན་གསང་སྤྱོད་འདི་སྦུགས་ལ་༼གཤུད་༽ལབ་རེད། ན་ན་པ་ལགས་ལ་ལབ་དགོས་རེད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>མཆིན་ཏོ་༼གཤུད་༽ན་གསང་སྤྱོད་འདི་སྦུག་ལ་༼གཤུད་༽ལབ་རེད། ན་ན་པ་ལགས་ལ་ལབ་དགོས་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -470,12 +470,12 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22275" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
-        <ANNOTATION_VALUE>ཏར་སྐུད་རྒྱུ་དུས་སྐབས་སུ་ཡག་པོ་བྱས་ནས་སྒྱུ་ན་</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཏར་སྐུད་༽རྒྱུ་དུས་སྐབས་སུ་ཡག་པོ་བྱས་ནས་སྒྱུ་ན་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22277" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
-        <ANNOTATION_VALUE>ཚིག་རིལ་ཐེབ་༼གི་༽རེད། ༼ཨ་ནས་༽ཏར་སྐུད་ཕུད་དུས་སྐབས་སུ་འདི་སྦུགས་ལ་བསྡུས།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཚིག་རིལ་ཐེབ་༼གི་༽རེད། ༼ཨ་ནས་༽༼ཏར་སྐུད་༽ཕུད་དུས་སྐབས་སུ་འདི་སྦུག་ལ་བསྡུས།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
