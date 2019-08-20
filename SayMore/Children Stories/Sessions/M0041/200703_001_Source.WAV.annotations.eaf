@@ -437,7 +437,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44625" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
-        <ANNOTATION_VALUE>འོ་་བུ་ཆུང་ཆུང་འདིས་འ་གག་བཏང་གི་ཡོད་རེད་ར། ཨ་་ད་གིན་འདི་</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>འོ་་བུ་ཆུང་ཆུང་འདིས་༼འ་གག་༽བཏང་གི་ཡོད་རེད་ར། ཨ་་ད་གིན་འདི་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -457,7 +457,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44633" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
-        <ANNOTATION_VALUE>ཆབ་སྟན་སྒང་ལ་འགོས་༼ཞག༽ འ་གག</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཆབ་སྟན་སྒང་ལ་འགོས་༼ཞག༽ ༼འ་གག༽</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -562,7 +562,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44675" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
-        <ANNOTATION_VALUE>ཨ་ཅག་ཁ་གྱི་གཡའ།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཨ་ཅག་༼ཁ་གྱི་༽གཡའ།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -712,7 +712,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44735" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
-        <ANNOTATION_VALUE>ཨ་ཅག་འདི་ལ་འ་གག་བཏང་རེད་བས། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཨ་ཅག་འདི་ལ་༼འ་གག་༽བཏང་རེད་བས། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1117,7 +1117,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44897" TIME_SLOT_REF1="ts293" TIME_SLOT_REF2="ts294">
-        <ANNOTATION_VALUE>ང་ཆུང་ཆུང་སྐབས་དུས་ནས་སྐས་འཛར་མ་ནས་འགྲོ་མེད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ང་ཆུང་ཆུང་སྐབས་དུས་ནས་སྐས་༼འཛར་༽མ་ནས་འགྲོ་མེད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1327,7 +1327,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44981" TIME_SLOT_REF1="ts377" TIME_SLOT_REF2="ts378">
-        <ANNOTATION_VALUE>༼ཨ་ནས༽། སྤྱང་ཀི་ཁ་གྱི་བཤད་ག </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས༽། སྤྱང་ཀི་༼ཁ་གྱི་༽བཤད་ག </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
   </TIER>

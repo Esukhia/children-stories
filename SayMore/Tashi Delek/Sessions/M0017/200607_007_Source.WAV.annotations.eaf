@@ -465,7 +465,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76693" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
-        <ANNOTATION_VALUE>མི་ཆེན་པོ་ཁ་གྱི་རེད་བས། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>མི་ཆེན་པོ་༼ཁ་གྱི་༽རེད་བས། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -675,7 +675,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76777" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
-        <ANNOTATION_VALUE>མི་དེ་འ་གག་ཆགས་རེད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>མི་དེ་༼འ་གག་༽ཆགས་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -785,7 +785,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76821" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
-        <ANNOTATION_VALUE>༼ཨ་ནས་༽ཡོད་(བ)། པ་ལགས་གི་གྲོད་ཁོག་ཨེམ་རྗེ་ལགས་ལ་སྟོན་རེད་ད་ལྟ་ཨ་མ་གིས།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས་༽ཡོད་(བ)། པ་ལགས་གི་གྲོད་ཁོག་ཨེམ་རྗེ་ལགས་ལ་སྟོན་རེད་(ད)་ལྟ་ཨ་མ་གིས།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -825,12 +825,12 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76837" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
-        <ANNOTATION_VALUE>འདི། འ་གག་བཏང་ཚར་ར། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>འདི། ༼འ་གག་༽བཏང་ཚར་ར། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76839" TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
-        <ANNOTATION_VALUE>འ་གག་བཏང་ཚར་ར། Dinosor དེས་གཅིན་པ་བཏང་རེད། བ་ཕྱུག་གཅིག་ཡོད་(བ་)གཅིན་པ་བཏང་རེད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼འ་གག་༽བཏང་ཚར་ར། Dinosor དེས་གཅིན་པ་བཏང་རེད། བ་ཕྱུག་གཅིག་ཡོད་(བ་)གཅིན་པ་བཏང་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
