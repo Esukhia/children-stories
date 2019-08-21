@@ -41,7 +41,7 @@
   <TIER DEFAULT_LOCALE="ipa-ext" LINGUISTIC_TYPE_REF="Transcription" TIER_ID="Transcription">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a449" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-        <ANNOTATION_VALUE>བ་ཕྱུག་གཅིག་འདུག་(ད་)(ར)། བྱེའུ་གཅིག་འཕུར་གི་འདུག་(ད་)(ར)།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>བ་ཕྱུག་གཅིག་འདུག་(ད་)(ར)། བྱེའུ་གཅིག་འཕུར་༼གི་༽འདུག(ད་)(ར)།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>

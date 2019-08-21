@@ -1250,7 +1250,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90915" TIME_SLOT_REF1="ts279" TIME_SLOT_REF2="ts280">
-        <ANNOTATION_VALUE>ད་སླེབས་གི་འདུག་སླེབས་གི་མི་འདུག་བལྟ་ཡ་ཡིན། སླེབས་མ་༼ཞག༽</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ད་སླེབས་༼གི་༽འདུག་སླེབས་གི་མི་འདུག་བལྟ་ཡ་ཡིན། སླེབས་མ་༼ཞག༽</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1520,7 +1520,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91023" TIME_SLOT_REF1="ts387" TIME_SLOT_REF2="ts388">
-        <ANNOTATION_VALUE>ཨ་མ་ལགས་བདེ་ལེགས་གིས་ག་རེ་བྱེད་གི་འདུག་བདེ་ལེགས། ཨ་མ་ཁ་ལག་བཟོ་བསྡད་ཡོད་བས།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཨ་མ་ལགས་བདེ་ལེགས་གིས་ག་རེ་བྱེད་༼གི་༽འདུག་བདེ་ལེགས། ཨ་མ་ཁ་ལག་བཟོ་བསྡད་ཡོད་བས།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1630,7 +1630,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91067" TIME_SLOT_REF1="ts431" TIME_SLOT_REF2="ts432">
-        <ANNOTATION_VALUE>ཙོག་གིར་མ་བསྡད་ན་༼ཨི་འདྲས་༽ཆགས་གི་འདུག་ད་འདི། ༼ཨི་འདྲས་༽ཆགས་ན་ཆགས་བཅུག་གི་མིན་ད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཙོག་གིར་མ་བསྡད་ན་༼ཨི་འདྲས་༽ཆགས་༼གི་༽འདུག་ད་འདི། ༼ཨི་འདྲས་༽ཆགས་ན་ཆགས་བཅུག་གི་མིན་ད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1680,7 +1680,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91087" TIME_SLOT_REF1="ts451" TIME_SLOT_REF2="ts452">
-        <ANNOTATION_VALUE>Baby འདི། འོག་ལ་འཛུལ་གི་འདུག </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>Baby འདི། འོག་ལ་འཛུལ་༼གི་༽འདུག </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1805,7 +1805,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91137" TIME_SLOT_REF1="ts501" TIME_SLOT_REF2="ts502">
-        <ANNOTATION_VALUE>འདི་ཚོ་སླེབས་གི་འདུག ཀ་ཊོན།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>འདི་ཚོ་སླེབས་༼གི་༽འདུག ཀ་ཊོན།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
