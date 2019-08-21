@@ -994,7 +994,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63035" TIME_SLOT_REF1="ts235" TIME_SLOT_REF2="ts236">
-        <ANNOTATION_VALUE>རྒན་བདེ་སྐྱིད་ལགས་གི་ཇ་འཐུང་ས། འདི། རྒན་པ་སངས་ལགས་གི་ཆུ་འཐུང་ས། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>རྒན་བདེ་སྐྱིད་ལགས་༼གིས་༽ཇ་འཐུང་ས། འདི། རྒན་པ་སངས་ལགས་༼གིས་༽ཆུ་འཐུང་ས། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1009,7 +1009,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63041" TIME_SLOT_REF1="ts241" TIME_SLOT_REF2="ts242">
-        <ANNOTATION_VALUE>འདི། འདི་རྒན་བདེ་སྐྱིད་ལགས་གི་སྦྲང་རྩི།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>འདི། འདི་རྒན་བདེ་སྐྱིད་ལགས་༼གིས་༽སྦྲང་རྩི།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
