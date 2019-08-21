@@ -672,7 +672,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a144199" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
-        <ANNOTATION_VALUE>རྔན་པ་ཟ་ཐུབ་གི་ཡོད་མ་༼རས་༽ ༼ཨི་འདྲས༽། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>རྔན་པ་ཟ་ཐུབ་༼གི་༽ཡོད་མ་༼རས་༽ ༼ཨི་འདྲས༽། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1237,7 +1237,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a144425" TIME_SLOT_REF1="ts237" TIME_SLOT_REF2="ts238">
-        <ANNOTATION_VALUE>༼ཨ་ནས་༽Baby ཕལ་བཞག་ད། འདི་ལ་བཞག་ད། འགྲོ་གི་རེད་འདི་སྒང་ལ་མར་འགྲོ་གི་རེད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས་༽Baby ཕལ་བཞག་ད། འདི་ལ་བཞག་ད། འགྲོ་༼གི་༽རེད་འདི་སྒང་ལ་མར་འགྲོ་༼གི་༽རེད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1247,12 +1247,12 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a144429" TIME_SLOT_REF1="ts241" TIME_SLOT_REF2="ts242">
-        <ANNOTATION_VALUE>ག་ལེ་ག་ལེ་འགྲོ་གི་རེད། ག་ལེ་ག་ལེ་འགྲོ། འདི་འདྲས་འདི་འདྲས། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ག་ལེ་ག་ལེ་འགྲོ་༼གི་༽རེད། ག་ལེ་ག་ལེ་འགྲོ། འདི་འདྲས་འདི་འདྲས། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a144431" TIME_SLOT_REF1="ts243" TIME_SLOT_REF2="ts244">
-        <ANNOTATION_VALUE>འདི་འདྲས་འགྲོ་གི་རེད། མགྱོགས་པོ་མགྱོགས་པོ་འགྲོ་༼ཡ་༽མ་རེད་(ད)།ག་ལེ་ག་ལེ་འགྲོ་བྱེད་༼གི་༽འདུག འདི་འདྲས།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>འདི་འདྲས་འགྲོ་༼གི་༽རེད། མགྱོགས་པོ་མགྱོགས་པོ་འགྲོ་༼ཡ་༽མ་རེད་(ད)།ག་ལེ་ག་ལེ་འགྲོ་བྱེད་༼གི་༽འདུག འདི་འདྲས།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1447,7 +1447,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a144509" TIME_SLOT_REF1="ts321" TIME_SLOT_REF2="ts322">
-        <ANNOTATION_VALUE>ཨི། baby ཟ་ཐུབ་གི་རེད་བས། ཨ་ཁུང་ཚེ་བཅུ་གི་གོས་ཐུང་།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཨི། baby ཟ་ཐུབ་༼གི་༽རེད་བས། ཨ་ཁུང་ཚེ་བཅུ་གི་གོས་ཐུང་།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1957,7 +1957,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a144713" TIME_SLOT_REF1="ts525" TIME_SLOT_REF2="ts526">
-        <ANNOTATION_VALUE>༼ཨ་ནས་༽རྒན་ལགས་ལ། རྒན་བསམ་རྟེན་ལ། འགྲོ་གི་ཡིན། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས་༽རྒན་ལགས་ལ། རྒན་བསམ་རྟེན་ལ། འགྲོ་༼གི་༽ཡིན། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
