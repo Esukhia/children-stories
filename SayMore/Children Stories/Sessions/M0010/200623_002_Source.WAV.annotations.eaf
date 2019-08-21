@@ -175,12 +175,12 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1361" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
-        <ANNOTATION_VALUE>ཉ་༼ཨི་འདྲས་༽བྱས་ནས་ཟིམ་གི་འདུག</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཉ་༼ཨི་འདྲས་༽བྱས་ནས་ཟིམ་༼གི་༽འདུག</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1363" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
-        <ANNOTATION_VALUE>ཉ་ཟ་གི་མི་འདུག ཉ་༼ཨི་འདྲས་༽བྱས་ནས་ཟིམ་གི་འདུག</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཉ་ཟ་གི་མི་འདུག ཉ་༼ཨི་འདྲས་༽བྱས་ནས་ཟིམ་༼གི་༽འདུག</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
