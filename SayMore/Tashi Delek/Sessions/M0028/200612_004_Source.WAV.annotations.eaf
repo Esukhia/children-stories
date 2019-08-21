@@ -216,7 +216,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5139" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
-        <ANNOTATION_VALUE>དེ་རིང་ང་རང་ནང་ལ་ཉལ་ཡ་ཡིན་པས། དགོང་དག་ང་རང་ནང་ལ་ཉལ་ཡ་ཡིན་པས།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>དེ་རིང་ང་རང་ནང་ལ་ཉལ་༼ཡ་༽ཡིན་པས། དགོང་དག་ང་རང་ནང་ལ་ཉལ་༼ཡ་༽ཡིན་པས།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -271,7 +271,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5161" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
-        <ANNOTATION_VALUE>ཨ། ང་རྒྱལ་པོ་གིས་ར་རྩེད་མོ་རྩེ་ཡ་སྤྲད་གི་མི་འདུག </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཨ། ང་རྒྱལ་པོ་གིས་ར་རྩེད་མོ་རྩེ་༼ཡ་༽སྤྲད་གི་མི་འདུག </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -286,7 +286,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5167" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
-        <ANNOTATION_VALUE>སྤང་གོག་རེད་(ད)་ཁྱེད་རང་ང་ལ་ཚུལ་དངུལ་སྤྲད་ཡ་རེད་(ད)།འ་་་སྤང་གོག་དེས། འ་་་ང་སྤྲད་དགོས།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>སྤང་གོག་རེད་(ད)་ཁྱེད་རང་ང་ལ་ཚུལ་དངུལ་སྤྲད་༼ཡ་༽རེད་(ད)།འ་་་སྤང་གོག་དེས། འ་་་ང་སྤྲད་དགོས།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -316,7 +316,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5179" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
-        <ANNOTATION_VALUE>ང་འདི་རྩེ་ཡ་ཡིན། ལྟ་ཨ། ལྟ་ད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ང་འདི་རྩེ་༼ཡ་༽ཡིན། ལྟ་ཨ། ལྟ་ད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -436,7 +436,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5227" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
-        <ANNOTATION_VALUE>ཁྱེད་རང་ཟ་ཡ་རེད་(ད)།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཁྱེད་རང་ཟ་༼ཡ་༽རེད་(ད)།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
