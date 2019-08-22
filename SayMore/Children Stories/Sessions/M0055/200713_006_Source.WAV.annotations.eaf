@@ -413,7 +413,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10329" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
-        <ANNOTATION_VALUE>ལག་པ་འཆང་འདུག་ག་༼ཨ་ནས་༽ལག་པ་ཨ་ཚ་བྱས་རེད། ༼ཨ་ནས་༽ཤི་གི་རེད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ལག་པ་འཆང་འདུག་(ག་)༼ཨ་ནས་༽ལག་པ་ཨ་ཚ་བྱས་རེད། ༼ཨ་ནས་༽ཤི་གི་རེད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -443,7 +443,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10341" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
-        <ANNOTATION_VALUE>ལག་པ་བཀྲུས་༼ཞག༽ ཡི་ཙི་བརྒྱབ་ནས་</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ལག་པ་བཀྲུས་༼ཞག༽ [ཡི་ཙི་]བརྒྱབ་ནས་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
