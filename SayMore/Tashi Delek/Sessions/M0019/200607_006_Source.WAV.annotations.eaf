@@ -229,7 +229,7 @@
   <TIER DEFAULT_LOCALE="ipa-ext" LINGUISTIC_TYPE_REF="Transcription" TIER_ID="Transcription">
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13641" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-        <ANNOTATION_VALUE>རྫོགས་རས་འདི། རྫོགས་ཡོད་མ་༼རས་༽ བཤད་གི་མིན།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>རྫོགས་རས་འདི། རྫོགས་ཡོད་མ་༼རས་༽ བཤད་༼གི་༽མིན།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -544,7 +544,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13767" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
-        <ANNOTATION_VALUE>ལགས་གིས་མིག་ཤེལ་སྤྲད་སོང་།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ལགས་༼གིས་༽མིག་ཤེལ་སྤྲད་སོང་།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -699,7 +699,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13829" TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts190">
-        <ANNOTATION_VALUE>ང་པ་ལགས་གིས་(ར)།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ང་པ་ལགས་༼གིས་༽(ར)།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -734,7 +734,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13843" TIME_SLOT_REF1="ts203" TIME_SLOT_REF2="ts204">
-        <ANNOTATION_VALUE>དེ་ནས་ང་ཡོད་(བ་)པ་ལགས་གིས་ཆུ་སྤྲད་སོང་།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>དེ་ནས་ང་ཡོད་(བ་)པ་ལགས་༼གིས་༽ཆུ་སྤྲད་སོང་།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>

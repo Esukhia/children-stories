@@ -859,7 +859,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111317" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
-        <ANNOTATION_VALUE>༼ཨ་ནས་༽ཡོད་(བ)། པ་ལགས་གིས་ཙྭ་མི་འདུག་ལབ་རེད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས་༽ཡོད་(བ)། པ་ལགས་༼གིས་༽ཙྭ་མི་འདུག་ལབ་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -874,17 +874,17 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111323" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
-        <ANNOTATION_VALUE>པ་ལགས་གིས་དེབ་དཀར་པོ་མི་འདུག་ལབ་རེད། བསིལ་ལྷམ་མི་འདུག་ལབ་རེད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>པ་ལགས་༼གིས་༽དེབ་དཀར་པོ་མི་འདུག་ལབ་རེད། བསིལ་ལྷམ་མི་འདུག་ལབ་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111325" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
-        <ANNOTATION_VALUE>པ་ལགས་གིས་༼ཨ་ནས་༽(ར་)ཚལ་མི་འདུག་ལབ་རེད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>པ་ལགས་༼གིས་༽༼ཨ་ནས་༽(ར་)ཚལ་མི་འདུག་ལབ་རེད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111327" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
-        <ANNOTATION_VALUE>༼ཨ་ནས་༽ཡོད་(བ)། པ་ལགས་གིས་(ར)། པ་ལགས་༼གིས་༽༼ར་༽ཚལ་འདུག་ལབ་རེད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས་༽ཡོད་(བ)། པ་ལགས་༼གིས་༽(ར)། པ་ལགས་༼གིས་༽༼ར་༽ཚལ་འདུག་ལབ་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1139,7 +1139,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111429" TIME_SLOT_REF1="ts249" TIME_SLOT_REF2="ts250">
-        <ANNOTATION_VALUE>འདི་ག་བ་འདུག་ལབ་དགོས་བས། དེ་གཅིག་གྱིས་ད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>འདི་ག་བ་འདུག་ལབ་དགོས་བས། དེ་གཅིག་གྱིས་༼ད༽།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1559,12 +1559,12 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111597" TIME_SLOT_REF1="ts417" TIME_SLOT_REF2="ts418">
-        <ANNOTATION_VALUE>༼ཨ་ནས་༽བཙོན་ཁང་ལ་འགྲོ་རེད་(ད)།པ་ལགས་གིས་ལབ་ལེབ་དེ་ཪོགས་པ་བྱས་རེད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས་༽བཙོན་ཁང་ལ་འགྲོ་རེད་(ད)།པ་ལགས་༼གིས་༽ལབ་ལེབ་དེ་ཪོགས་པ་བྱས་རེད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111599" TIME_SLOT_REF1="ts419" TIME_SLOT_REF2="ts420">
-        <ANNOTATION_VALUE>པ་ལགས་གིས་ཡག་པོ་བྱེད་༼གི་༽འདུག་ལབ་རེད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>པ་ལགས་༼གིས་༽ཡག་པོ་བྱེད་༼གི་༽འདུག་ལབ་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1604,7 +1604,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111615" TIME_SLOT_REF1="ts435" TIME_SLOT_REF2="ts436">
-        <ANNOTATION_VALUE>ཆུ་བརྒལ་ག་ལ་འགྲོ་ཚར་(ར)། ༼ཨ་ནས་༽རྩེད་མོ་རྩེ་༼ཡ་༽རག་མ་སོང་། ༼ཨ་ནས་༽ང་ཚོ་པ་ལགས་གིས་རྩེད་མོ་ཉོ་གི་རེད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཆུ་བརྒལ་ག་ལ་འགྲོ་ཚར་(ར)། ༼ཨ་ནས་༽རྩེད་མོ་རྩེ་༼ཡ་༽རག་མ་སོང་། ༼ཨ་ནས་༽ང་ཚོ་པ་ལགས་༼གིས་༽རྩེད་མོ་ཉོ་གི་རེད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1629,12 +1629,12 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111625" TIME_SLOT_REF1="ts445" TIME_SLOT_REF2="ts446">
-        <ANNOTATION_VALUE>ཤིང་ཏོག་ཉོ་མ་རེད། པ་ལགས་གིས་(ར)། པ་ལགས་གིས་ཆུ་ཉོ་ས་རེད</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཤིང་ཏོག་ཉོ་མ་རེད། པ་ལགས་༼གིས་༽(ར)། པ་ལགས་༼གིས་༽ཆུ་ཉོ་ས་རེད</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111627" TIME_SLOT_REF1="ts447" TIME_SLOT_REF2="ts448">
-        <ANNOTATION_VALUE>པ་ལགས་གིས་ག་རེ་ཟིམ་དགོས་རེད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>པ་ལགས་༼གིས་༽ག་རེ་ཟིམ་དགོས་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1644,7 +1644,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111631" TIME_SLOT_REF1="ts451" TIME_SLOT_REF2="ts452">
-        <ANNOTATION_VALUE>པ་ལགས་གིས་ཀུ་ཤུ་ཉོ་རེད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>པ་ལགས་༼གིས་༽ཀུ་ཤུ་ཉོ་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>

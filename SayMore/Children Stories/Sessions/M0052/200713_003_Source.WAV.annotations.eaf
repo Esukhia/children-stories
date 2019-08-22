@@ -405,7 +405,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22249" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
-        <ANNOTATION_VALUE>མཆིན་ཏོ། ༼ཨ་ནས་༽ལགས་གིས་མ་བྱེད་ལབ་རེད། ༼ཨ་ནས་༽ཁྲུས་གི་ཡོད་རེད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>མཆིན་ཏོ། ༼ཨ་ནས་༽ལགས་༼གིས་༽མ་བྱེད་ལབ་རེད། ༼ཨ་ནས་༽ཁྲུས་༼གི་༽ཡོད་རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -445,7 +445,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22265" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
-        <ANNOTATION_VALUE>ན་(ར་)དགོང་དག་༼ཨ་ནས་༽ཚ་བ་འབར་ནས་ལགས་གིས་ཨེམ་་ཆི་ལགས་༼གིས་༽མཉམ་དུ་༼ཐད་༽རེད། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ན་(ར་)དགོང་དག་༼ཨ་ནས་༽ཚ་བ་འབར་ནས་ལགས་༼གིས་༽ཨེམ་་ཆི་ལགས་༼གིས་༽མཉམ་དུ་༼ཐད་༽རེད། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
