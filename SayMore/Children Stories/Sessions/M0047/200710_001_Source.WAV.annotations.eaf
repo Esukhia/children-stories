@@ -289,7 +289,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4359" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
-        <ANNOTATION_VALUE>སྤྱང་ཀི་གིས་ཟ་༼འགྲོའོ་༽བྱེད་༼གི་༽འདུག</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>སྤྱང་ཀི་གིས་ཟ་༼༼འགྲོའོ་༽༽བྱེད་༼གི་༽འདུག</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
