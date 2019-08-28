@@ -241,7 +241,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5255" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
-        <ANNOTATION_VALUE>༼ཨ་ནས་༽མི་གཅིག་game ཉོ་ག་འགྲོ་༼ཞག༽ མི་གཅིག་འོ་་ཤོག་སྒམ་ཕྱེ་ག་འགྲོ་༼ཞག༽</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས་༽མི་གཅིག་game ཉོ་ག་འགྲོ་༼ཞག༽ མི་གཅིག་འོ་་ཤོག་སྒམ་ཕྱེ་༼ག་༽་འགྲོ་༼ཞག༽</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -286,7 +286,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5273" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
-        <ANNOTATION_VALUE>འདི་འོ་་་་རྩེད་མོ་རྩེ་ས་རེད་༼ཞག༽ ཁྱེད་རང་འདིར་ཤོག་ད། གཅིག་ball རེད་༼ཞག༽</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>འདི་འོ་་་་རྩེད་མོ་རྩེ་ས་རེད་༼ཞག༽ ཁྱེད་རང་འདིར་ཤོག་(ད)། གཅིག་ball རེད་༼ཞག༽</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
