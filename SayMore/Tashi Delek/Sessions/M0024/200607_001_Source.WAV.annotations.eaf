@@ -590,7 +590,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28635" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
-        <ANNOTATION_VALUE>ཞལ་འདོན་སྐྱོར་ག་འགྲོ་༼གི་༽ཡོད་རེད།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ཞལ་འདོན་སྐྱོར་(ག་)འགྲོ་༼གི་༽ཡོད་རེད།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -985,7 +985,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28793" TIME_SLOT_REF1="ts245" TIME_SLOT_REF2="ts246">
-        <ANNOTATION_VALUE>མ་བྱེད། མ་བྱེད། མ་བྱེད་ད་ཨ་ཅག ང་གཅིག་བལྟ་༼ཡ་༽ཡིན།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>མ་བྱེད། མ་བྱེད། མ་བྱེད་(ད་)ཨ་ཅག ང་གཅིག་བལྟ་༼ཡ་༽ཡིན།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -1175,7 +1175,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28869" TIME_SLOT_REF1="ts321" TIME_SLOT_REF2="ts322">
-        <ANNOTATION_VALUE>ང་ལོ་གསུམ་ཚར་རེད། ལོ་བཞི་ཚར་༼༼འགྲོའོ་༽༽ཡོད་རེད། ང་Happy Birdday བཏང་ཚར་བདེ་ལེགས་ངེད་གཉིས། </ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>ང་ལོ་གསུམ་ཚར་རེད། ལོ་བཞི་ཚར་༼འགྲོའོ་༽ཡོད་རེད། ང་Happy Birdday བཏང་ཚར་བདེ་ལེགས་ངེད་གཉིས། </ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>

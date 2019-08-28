@@ -183,7 +183,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7957" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
-        <ANNOTATION_VALUE>བྱིའུ་དེ་ཡོད་(བ་)ཤིང་སྡོང་སྒང་ལ་འགྲོ་སོང་ད་</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>བྱིའུ་དེ་ཡོད་(བ་)ཤིང་སྡོང་སྒང་ལ་འགྲོ་སོང་(ད་)</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -208,7 +208,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7967" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
-        <ANNOTATION_VALUE>༼ཨ་ནས་༽མར་ཕུར་སོང་ད་༼ཨ་ནས་༽མར་༼ཁེར་༽སོང་གནམ་ལ། ༼ཨ་ནས་༽ཁོ་དཔེ་དགའ་བོ་དགའ་སོང་</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>༼ཨ་ནས་༽མར་ཕུར་སོང་(ད་)༼ཨ་ནས་༽མར་༼ཁེར་༽སོང་གནམ་ལ། ༼ཨ་ནས་༽ཁོ་དཔེ་དགའ་བོ་དགའ་སོང་</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -308,7 +308,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8007" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
-        <ANNOTATION_VALUE>འོ་དེ་གིས། ནང་ལ་ང་ཚོའི་ནང་ལ།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>འོ་དེ་༼གིས༽། ནང་ལ་ང་ཚོའི་ནང་ལ།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -393,7 +393,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8041" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
-        <ANNOTATION_VALUE>སྔོན་མ་སྔོན་མ་བྱིའུ་གཅིག་བབས་སོང་(ད)། ཡོད་(བ)། བྱིའུ་ཁོ་མཉམ་དུ་རྩེད་མོ་རྩེས་སོང་ད་ཡོད་(བ)།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>སྔོན་མ་སྔོན་མ་བྱིའུ་གཅིག་བབས་སོང་(ད)། ཡོད་(བ)། བྱིའུ་ཁོ་མཉམ་དུ་རྩེད་མོ་རྩེས་སོང་(ད་)ཡོད་(བ)།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
@@ -413,7 +413,7 @@
     </ANNOTATION>
     <ANNOTATION>
       <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8049" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
-        <ANNOTATION_VALUE>བབས་སོང་ད་བྱིའུ་ཁོ།</ANNOTATION_VALUE>
+        <ANNOTATION_VALUE>བབས་སོང་(ད་)བྱིའུ་ཁོ།</ANNOTATION_VALUE>
       </ALIGNABLE_ANNOTATION>
     </ANNOTATION>
     <ANNOTATION>
