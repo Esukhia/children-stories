@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2011-06-24T16:18:11-08:00" FORMAT="2.7" VERSION="2.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.7.xsd">
+  <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+    <PROPERTY NAME="lastUsedAnnotationId">216</PROPERTY>
+    <MEDIA_DESCRIPTOR MEDIA_URL="200922_008_Source_StandardAudio.wav" MIME_TYPE="audio/x-wav" />
+  </HEADER>
+  <TIME_ORDER>
+    <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0" />
+    <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="8042" />
+    <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="8042" />
+    <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="12971" />
+    <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="12971" />
+    <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="20577" />
+    <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="20577" />
+    <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="28796" />
+    <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="28796" />
+    <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="30734" />
+    <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="30734" />
+    <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="33904" />
+    <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="33904" />
+    <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="43549" />
+    <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="43549" />
+    <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="51628" />
+    <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="51628" />
+    <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="55589" />
+  </TIME_ORDER>
+  <TIER DEFAULT_LOCALE="ipa-ext" LINGUISTIC_TYPE_REF="Transcription" TIER_ID="Transcription">
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a199" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+        <ANNOTATION_VALUE>འདི་སུ་ཁ་གྱི་རེད། འདི་སུ་ཁ་གྱི་རེད། </ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a201" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+        <ANNOTATION_VALUE>སྔོན་མ་སྔོན་མ་ཡོད་ར། མཚར་གཏམ་བཤད་ན་འགྲིག་གི་རེད་བ། སྔོན་མ་སྔོན་མ་ཡོད་བ།</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a203" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+        <ANNOTATION_VALUE>བདག་པོ་གཅིག་ཡོད་རེད་ད། འོ་དེ་ལ་གཡོག་པོ་ལྐུག་པ་འདྲ་བོ་གཅིག་ཡོད་རེད་ད་ར། ཨ་ནས་གཡོག་པོ་ལྐུག་པ་དེ་ལ་ཡོད་བ་ནང་ལ་སྐད་བཏང་རེད་ད་ར། </ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a205" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+        <ANNOTATION_VALUE>ཨུར་ཏི་རྒྱག་སྟངས་བསླབས་རེད་ད་ར། ཨུར་ཏི་རྒྱོབས་ཤོག་ཨ་ལབ་རེད་ད། ཡ་ཡ་ལབ་རེད་ད། ཨ་ནས་བདག་པོ་དེ་ཁྲོམས་ལ་འགྲོ་རེད་ད། ཁྲོམས་ལ་འགྲོ་ནས་</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a207" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+        <ANNOTATION_VALUE>འགྲོ་དུས་ཨ་ནས་ཡོད་བ་ཁོ་</ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a209" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+        <ANNOTATION_VALUE>ཨ་ནས་ཡོད་བ། བུ་གླེན་པ་དེ་གིས་ཨི་འདྲས་བྱས་རེད་ད། </ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a211" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+        <ANNOTATION_VALUE>དུག་སློག་ཨུར་ཏི་བརྒྱབ་རེད་ད། ཨ་ནས་རྨོའོ་མོ་ཁོ་ནང་ལ་རྨོའོ་མོ་གཅིག་ཡོད་རེད་ད། འོ་དེས་ཡོད་བ་དུག་སློག་ཡོད་ར་དྲོ་པོ་དྲོ་པོ་མང་པོ་དཔེ་གོན་ཡོད་རེད་ད། </ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a213" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <ALIGNABLE_ANNOTATION ANNOTATION_ID="a215" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      </ALIGNABLE_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Translation" PARENT_REF="Transcription" TIER_ID="Phrase Free Translation">
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a199">
+        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a201">
+        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a203">
+        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a205">
+        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a207">
+        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a209">
+        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a211">
+        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a213">
+        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+    <ANNOTATION>
+      <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a215">
+        <ANNOTATION_VALUE></ANNOTATION_VALUE>
+      </REF_ANNOTATION>
+    </ANNOTATION>
+  </TIER>
+  <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Transcription" TIME_ALIGNABLE="true" />
+  <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Translation" TIME_ALIGNABLE="false" />
+  <LOCALE LANGUAGE_CODE="ipa-ext" VARIANT="IPA Extended" />
+  <LOCALE LANGUAGE_CODE="ar" VARIANT="MLT Arabic" />
+  <LOCALE LANGUAGE_CODE="en" />
+  <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision" />
+  <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision" />
+  <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association" />
+  <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In" />
+</ANNOTATION_DOCUMENT>
